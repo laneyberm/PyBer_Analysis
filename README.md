@@ -13,16 +13,15 @@ In this project, we will replace the math and reading scores for nineth graders 
 ## Results 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type
 
-<img src="https://github.com/laneyberm/PyBer_Analysis/blob/main/Resources/Fig2.png" width="300">
-<img src="https://github.com/laneyberm/PyBer_Analysis/blob/main/Resources/Fig3.png" width="300">
-<img src="https://github.com/laneyberm/PyBer_Analysis/blob/main/Resources/Fig5.png" width="300">
-<img src="https://github.com/laneyberm/PyBer_Analysis/blob/main/Resources/Fig6.png" width="300">
-<img src="https://github.com/laneyberm/PyBer_Analysis/blob/main/Resources/Fig7.png" width="300">
+<img src="https://github.com/laneyberm/PyBer_Analysis/blob/main/Analysis/Fig2.png" width="600">
+<img src="https://github.com/laneyberm/PyBer_Analysis/blob/main/Analysis/Fig3.png" width="600">
+<img src="https://github.com/laneyberm/PyBer_Analysis/blob/main/Analysis/Fig5.png" width="600">
+<img src="https://github.com/laneyberm/PyBer_Analysis/blob/main/Analysis/Fig7.png" width="600">
 
-<img src="https://github.com/laneyberm/PyBer_Analysis/blob/main/Resources/pyber_summary.png" width="800">
+<img src="https://github.com/laneyberm/PyBer_Analysis/blob/main/Analysis/pyber_summary.png" width="800">
 A ride-sharing summary DataFrame by city type.
 
-<img src="https://github.com/laneyberm/PyBer_Analysis/blob/main/Resources/Challenge_fare_summary.png" width="800">
+<img src="https://github.com/laneyberm/PyBer_Analysis/blob/main/Analysis/Challenge_fare_summary.png" width="800">
 A multiple-line chart of total fares for each city type.
 
 ## Summary
