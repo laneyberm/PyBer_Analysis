@@ -8,7 +8,7 @@ The purpose of this analysis is to visualize the difference in PyBer traffic bet
 
 ## Resources:
 - Data Source: city_data.csv, ride_data.csv
-- Software: Jupyter Notebook, Python 3.10.6, Pandas 1.3.5, Matplotlib 3.5.1
+- Software: Jupyter Notebook 6.4.8, Python 3.7.13, Pandas 1.3.5, Matplotlib 3.5.1
 
 ## Results 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type
