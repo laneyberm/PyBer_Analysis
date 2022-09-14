@@ -1,12 +1,12 @@
 # PyBer Rideshare Analysis by City Type
 
-## Overview
-The purpose of the new analysis is well defined.
+## Overview:
 V. Isualize has given you and Omar a brand-new assignment. Using your Python skills and knowledge of Pandas, you’ll create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, you’ll create a multiple-line graph that shows the total weekly fares for each city type. Finally, you’ll submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
-In this project, we will replace the math and reading scores for nineth graders at Thomas High School with NaNs and create a better analysis for the school board of the Math and Reading Test Scores. We will also determine how the changes to the data altered the overall analysis. We will show data filtered the scores by size of school, spending per student, and type of school. This data will help the district determine how much money should be allocated to and spent on each school. 
+## Purpose:
+The purpose of this analysis is to visualize the difference in PyBer traffic between different city types. Using both pandas and matplotlib, we are supposed to visualize the difference between fare price, rides, and driver count between each city type. The questions we ask ourselves are: what is the average fare price per city type, how many drivers are in each city type, and how many rides are given per city type? By using pandas data frame and matplotlib visualization tools, we can easily analyze and plot the results in a comprehensive way. Although we were not asked specifically about outliers in the challenge, the module allowed us to plot box and whisker plots to visualize potential outliers within our dataset.
 
-## Resources
+## Resources:
 - Data Source: city_data.csv, ride_data.csv
 - Software: Jupyter Notebook, Python using Pandas and Matplotlib
 
